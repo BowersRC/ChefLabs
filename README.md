@@ -1,5 +1,5 @@
 # MongoTest
 
-TODO: Enter the cookbook description here.
+TODO: Mongo DB install.
 
 # ChefLabs
